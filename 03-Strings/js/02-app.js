@@ -9,4 +9,3 @@ console.log(producto.length);
 console.log(producto.includes('Tablet'));
 console.log(prodcuto.includes('Monitor'));
 console.log(prodcuto.includes('monitor'));
-
