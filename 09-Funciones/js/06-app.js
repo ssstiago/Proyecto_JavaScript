@@ -1,0 +1,8 @@
+
+//Parametros ppr Defoult
+
+function saludar(nombre = 'Desconocido', apellido = '') {
+    console.log(`Hola ${nombre} ${apellido}`)
+}
+
+saludar('Santiago', 'Sanchez');
